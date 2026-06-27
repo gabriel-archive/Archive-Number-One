@@ -4,6 +4,7 @@ Tetriz - A game resembeling the legendary game Tetris, this game was entirely vi
 3. Settings Tab
 4. Configuration saving
 5. Music.
+
 !THE GAME CAN BE INSTALLED WITHOUT OPENING SOURCE CODE. THE GAME IS INSTALLABLE IN RELEASES!
 [Instructions to open the source code]
 [Requirements: Python 3.12 https://www.python.org/downloads/release/python-3120/]
