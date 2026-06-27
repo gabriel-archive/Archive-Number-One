@@ -1,1 +1,0 @@
-deda dedikoooooooo chemo lamazooooooo
